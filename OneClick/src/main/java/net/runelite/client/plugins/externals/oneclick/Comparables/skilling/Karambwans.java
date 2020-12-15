@@ -10,8 +10,8 @@ public class Karambwans extends ClickCompare
 	@Override
 	public boolean isEntryValid(MenuEntry event)
 	{
-		return event.getOpcode() == MenuOpcode.GAME_OBJECT_FIRST_OPTION.getId() &&
-			event.getOption().equals("Cook");
+		return event.getOpcode() == MenuOpcode.GAME_OBJECT_SECOND_OPTION.getId() &&
+			event.getOption().equals("Examine");
 	}
 
 	@Override

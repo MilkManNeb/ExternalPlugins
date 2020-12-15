@@ -374,7 +374,7 @@
     "provider": "Ganom",
     "name": "OneClick",
     "description": "OP One Click methods.",
-    "id": "oneclick-plugin",
+    "id": "oneClick-plugin",
     "releases": [
       {
         "date": "2020-04-29",
